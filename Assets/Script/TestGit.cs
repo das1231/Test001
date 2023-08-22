@@ -11,9 +11,15 @@ public class TestGit : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
+    void Testman()
     {
-        
+
+    }
+
+    void Test()
+    {
+        int a = 1;
+        int b = 2;
+        int c = a + b;
     }
 }
